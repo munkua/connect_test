@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/23542989/pointers-vs-values-in-parameters-and-return-values // 포인터 사용하는 좋은코드작성질문
