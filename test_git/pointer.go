@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-func pointers() {
+func main() {
 	var x int16 = 1
 	var p *int16 = &x
 	fmt.Print("%d", *p)
