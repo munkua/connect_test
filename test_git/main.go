@@ -5,6 +5,11 @@ import "fmt"
 
 func main() {
 
+	var A, B int
+	n, _ := fmt.Scan(&A, &B)
+	fmt.Println(A - B)
+	fmt.Println(n)
+
 	/*			short variable declaration을 이용한 multi 선언
 	shortDec1, shortDec2 := 'a', 3
 	shortDec1, shortDec3 := 'b', 4
